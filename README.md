@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rzngithub. I am an Eletrical Engineer (RF and Automation)
 - 👀 I’m interested in learning web, software, and app development.
 - 🌱 I’m currently working on LNA Automation. 
-- 📫 How to reach me: LinkedIn (Riasat Zaman)
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/riasat-z-19302a168
 
 <!---
 rzngithub/rzngithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
