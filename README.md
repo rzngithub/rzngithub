@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rzngithub. I am an Eletrical Engineer (RF and Automation)
-- 👀 I’m interested in learning web, software, and app development.
-- 🌱 I’m currently working on LNA Automation. 
+- 👋 Hi, I’m @rzngithub. I am an Eletrical Engineer (RF Hardware and Software).
+- 👀 I’m interested in learning web, software, and app development (hobby).
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/riasat-zamanRF
 
 <!---
